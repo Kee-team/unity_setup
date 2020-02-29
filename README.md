@@ -43,6 +43,11 @@ https://unity3d.com/ru/get-unity/download/archive
     <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u3.png">
 </div>
 
+### Импорт проекта (.unitypackage)
+1. В верхней части окна вы увидете раздел File, в нём вам понадобится раздел Open. После нажатия просто укажите путь вашего файла unitypackage.
+
+
+2. Подтвердить импорт выбранных файлов.
 
 
 
