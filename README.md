@@ -23,7 +23,7 @@ https://unity3d.com/ru/get-unity/download/archive
 ## Screenshots
 <div style="dispaly:flex">
     <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="32%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="32%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png">
 </div>
 
 ![](Git images/Unity archive.png)
