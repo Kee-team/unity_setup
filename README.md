@@ -8,27 +8,20 @@
 
 https://unity3d.com/ru/get-unity/download/archive
 
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/Unity archive.png" width="50%">
+</div>
+
+
 -  После скачивания инсталлятора, начинается процесс установки, тут нажимаем везде кнопку далее.
+
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+</div>
 
 ### Начало работы с проектами Kee & VL 
 
 
 
 
-
-
-### Test
-
-
-## Screenshots
-<div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
-</div>
-
-![](Git images/Unity archive.png)
-
-
-|pair|single|
-|:---:|:---:|
-![](Git images/i1.png)|![](Git images/i2.png)|
