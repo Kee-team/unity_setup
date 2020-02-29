@@ -9,7 +9,7 @@
 https://unity3d.com/ru/get-unity/download/archive
 
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/Unity archive.png" width="50%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/Unity archive.png">
 </div>
 
 
