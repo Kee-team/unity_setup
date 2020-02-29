@@ -54,8 +54,8 @@ https://unity3d.com/ru/get-unity/download/archive
 2. Подтвердить импорт выбранных файлов.
 
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i5.png" width="45%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i6.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u5.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u6.png" width="45%">
 </div>
 
 
