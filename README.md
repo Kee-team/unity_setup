@@ -16,8 +16,8 @@ https://unity3d.com/ru/get-unity/download/archive
 -  После скачивания инсталлятора, начинается процесс установки, тут нажимаем везде кнопку далее.
 
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="50%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="50%">
 </div>
 
 Установка завершена!:tada:
