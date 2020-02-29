@@ -36,6 +36,13 @@ https://unity3d.com/ru/get-unity/download/archive
     <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u1.png">
 </div>
 
+После упешного создания или выбора проекта, вы попадаете в сам редактор.
+
+
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u3.png">
+</div>
+
 
 
 
