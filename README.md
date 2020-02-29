@@ -44,7 +44,7 @@ https://unity3d.com/ru/get-unity/download/archive
 </div>
 
 ### Импорт проекта (.unitypackage)
-1. В верхней части окна вы увидете раздел File, в нём вам понадобится раздел Open. После нажатия просто укажите путь вашего файла unitypackage.
+1. В верхней части окна вы увидете раздел File, в нём вам понадобится подраздел Open. После нажатия просто укажите путь вашего файла unitypackage.
 
 
 <div style="dispaly:flex">
