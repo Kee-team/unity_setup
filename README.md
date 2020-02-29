@@ -47,7 +47,15 @@ https://unity3d.com/ru/get-unity/download/archive
 1. В верхней части окна вы увидете раздел File, в нём вам понадобится раздел Open. После нажатия просто укажите путь вашего файла unitypackage.
 
 
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/u4.png">
+</div>
+
 2. Подтвердить импорт выбранных файлов.
 
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i5.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i6.png" width="45%">
+</div>
 
 
