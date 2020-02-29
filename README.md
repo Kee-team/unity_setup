@@ -20,7 +20,10 @@ https://unity3d.com/ru/get-unity/download/archive
     <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
 </div>
 
+Установка завершена!:tada:
+
 ### Начало работы с проектами Kee & VL 
+Скоро...
 
 
 
