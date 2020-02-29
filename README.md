@@ -21,6 +21,7 @@ https://unity3d.com/ru/get-unity/download/archive
 </div>
 
 Установка завершена!:tada:
+Теперь можно начать работу.
 
 ### Начало работы с проектами Kee & VL 
 Скоро...
