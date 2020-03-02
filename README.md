@@ -48,7 +48,7 @@ https://unity3d.com/ru/get-unity/download/archive
 Для комфортной работы с редактором, вы можете его подстроить под себя, перетаскивая вкладку любого вида в одно из нескольких мест. Отбрасывание вкладки в области вкладок существующего окна добавит вкладку рядом с любыми существующими вкладками. В качестве альтернативы, отбрасывание вкладки в любой зоне док-станции добавит представление в новое окно.
 
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/image">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/uc.gif">
 </div>
 
 
