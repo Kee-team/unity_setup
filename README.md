@@ -53,6 +53,10 @@ https://unity3d.com/ru/get-unity/download/archive
 
 Вкладки также могут быть отделены от главного окна редактора и помещены в их собственный плавающий редактор Windows. Плавающие окна могут содержать расположение представлений и вкладок, как и окно главного редактора.
 
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/uw.png">
+</div>
+
 ## Импорт проекта (.unitypackage)
 1. В верхней части окна вы увидете раздел File, в нём вам понадобится подраздел Open. После нажатия просто укажите путь вашего файла unitypackage.
 
