@@ -1,3 +1,9 @@
+[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/kee_team)
+[![Discord](https://img.shields.io/discord/555912761742458880.svg?label=discord)](https://discord.gg/QZzdQT)
+
+
+
+
 # Вступление
 Данная статья создана в публичных целях для подробного объяснения работы движка и его установки.
 
